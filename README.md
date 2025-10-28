@@ -1,4 +1,3 @@
-# my-portfolio
 # My Personal Portfolio Website
 
 A simple and professional portfolio website built with HTML and CSS.
