@@ -4,9 +4,7 @@ A simple and professional portfolio website built with HTML and CSS.
 
 ## 🌐 Live Website
 
-**See it live:** [Click here to view my website](https://yourusername.github.io/portfolio-website)
-
-_(Replace with your actual link after deploying)_
+**See it live:** [Click here to view my website](https://chinaydu01.github.io/my-portfolio/)
 
 ## 📖 About This Project
 
